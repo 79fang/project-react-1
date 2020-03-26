@@ -1,5 +1,6 @@
 import _ from 'lodash';
 import j from 'jquery'
+import foo from './foo'
 
 function component() {
   // let element = document.createElement('div');
@@ -14,3 +15,6 @@ function component() {
 }
 
 document.body.appendChild(component());
+
+console.log(foo)
+console.log(foo())
