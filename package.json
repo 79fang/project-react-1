@@ -16,7 +16,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  // "homepage": "https: //lllacc.github.io/project-react-1/build",
+  "homepage": "/build",
   "eslintConfig": {
     "extends": "react-app"
   },
